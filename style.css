@@ -36,7 +36,7 @@ h1,h2,h3,h4,h5,h6 ,a{
     content: "";
     display: block;
     position: absolute;
-    top: 64px;
+    top: 62px;
     left: 16px;
     width: 0;
     height: 2px;
@@ -54,10 +54,10 @@ h1,h2,h3,h4,h5,h6 ,a{
     content: "";
     display: block;
     position: absolute;
-    top: 64px;
+    top: 62px;
     left: 16px;
     width: 66%;
-    height: 3px;
+    height: 2px;
     background: blue;
 }
 .our-menu .aftr-dactve a::after{
